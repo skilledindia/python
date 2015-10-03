@@ -68,3 +68,12 @@ Before pushing docs to git:
 	git commit -am 'adding first documentation'
 	git push
 	
+
+Basic Git commands
+
+	git init my_new_project
+	git status
+	git add [folder|file]# is a suggestion to git that this file should participate in version control. It is yet not stored in repo.
+	git commit -m "message"
+	There is only one .git folder per repo
+	
